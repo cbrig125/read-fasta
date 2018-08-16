@@ -19,3 +19,5 @@ if len(sys.argv) < 2:
 
 #use file name from command line
 print(read_fasta(sys.argv[1]))
+
+# nice code
